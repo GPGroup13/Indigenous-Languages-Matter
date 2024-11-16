@@ -1,4 +1,4 @@
-﻿*{
+*{
     margin: 0;
     padding: 0;
 }
@@ -59,8 +59,9 @@ nav ul li a{
     margin-top: 5%;
 }
 .feature-img{
+    align-items: right;
     height: 300px;
-    position: absolute; TOP: 60px; RIGHT: 230px;
-    position: auto;
-    display: block;
+    position: absolute;
+    bottom: 120px;
+    left: 700px;
 }
