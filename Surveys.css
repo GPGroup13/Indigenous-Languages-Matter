@@ -61,7 +61,7 @@ nav ul li a{
 .feature-img{
     align-items: right;
     height: 300px;
-    position: fixed;
+    position: absolute;
     bottom: 120px;
-    left: 900px;
+    left: 700px;
 }
