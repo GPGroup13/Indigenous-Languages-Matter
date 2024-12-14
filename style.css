@@ -54,7 +54,7 @@ nav ul li a{
     font-weight: 100;
     margin-top: 24px;
     margin-bottom: 15px;
-    background-color: bisque;
+    background-color: #34495e;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -62,7 +62,7 @@ nav ul li a{
     text-align:left;
     text-decoration: solid;
     font-size: 23px;
-    color: #8dc6ff  ;
+    color: #34495e  ;
 }
 .content{
     margin-left: 10%;
